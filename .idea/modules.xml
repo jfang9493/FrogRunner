@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FrogRunner.iml" filepath="$PROJECT_DIR$/FrogRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrogSimulation.iml" filepath="$PROJECT_DIR$/FrogSimulation.iml" />
     </modules>
   </component>
 </project>
